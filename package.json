@@ -1,0 +1,28 @@
+{
+  "name": "lab22021-arquisoft",
+  "version": "1.0.0",
+  "description": "Calculadora Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juan-urrego/lab22021-arquisoft.git"
+  },
+  "keywords": [
+    "suma",
+    "resta",
+    "multi",
+    "division"
+  ],
+  "author": "Urre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juan-urrego/lab22021-arquisoft/issues"
+  },
+  "homepage": "https://github.com/juan-urrego/lab22021-arquisoft#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
