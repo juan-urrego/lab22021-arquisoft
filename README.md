@@ -1,5 +1,3 @@
-# lab22021-arquisoft
-
 Implementation of a Simple Calculator with the next operations:
 
 * Add
