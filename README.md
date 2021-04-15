@@ -1,3 +1,7 @@
+# lab22021
+
+Travis-CI : [![Build Status](https://travis-ci.org/juan-urrego/lab22021-arquisoft.svg?branch=main)](https://travis-ci.org/juan-urrego/lab22021-arquisoft)
+
 Implementation of a Simple Calculator with the next operations:
 
 * Add
