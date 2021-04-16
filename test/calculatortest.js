@@ -9,13 +9,13 @@ describe("Calculator - Test", function(){
             expect(calculator.add(1,1)).to.equal(1+1);
         });
         it("Testing the minus operation", function(){
-            expect(calculator.minus(1,1)).to.equal(1-1);
+            expect(calculator.minus(2,1)).to.equal(2- 1);
         });
         it("Testing the multiply operation", function(){
             expect(calculator.multiply(3,3)).to.equal(3*3);
         });
         it("Testing the divide operation", function(){
-            expect(calculator.divide(3,3)).to.equal(3/3);
+            expect(calculator.divide(6,3)).to.equal(6/3);
         });
         it("Testing the divide operation by zero", function(){
             const expectError = new Error("No puede dividir por cero");
