@@ -6,7 +6,7 @@ Travis-CI : [![Build Status](https://travis-ci.org/juan-urrego/lab22021-arquisof
 
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=lab22021-arquisoft&metric=bugs)](https://sonarcloud.io/dashboard?id=lab22021-arquisoft)
 
-[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=juan-urrego_lab22021-arquisoft&metric=security_rating)](https://sonarcloud.io/dashboard?id=juan-urrego_lab22021-arquisoft)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=lab22021-arquisoft&metric=security_rating)](https://sonarcloud.io/dashboard?id=lab22021-arquisoft)
 
 [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=lab22021-arquisoft&metric=ncloc)](https://sonarcloud.io/dashboard?id=lab22021-arquisoft)
 
