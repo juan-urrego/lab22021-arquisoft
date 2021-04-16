@@ -8,6 +8,8 @@ Travis-CI : [![Build Status](https://travis-ci.org/juan-urrego/lab22021-arquisof
 
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=juan-urrego_lab22021-arquisoft&metric=security_rating)](https://sonarcloud.io/dashboard?id=juan-urrego_lab22021-arquisoft)
 
+[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=juan-urrego_lab22021-arquisoft&metric=ncloc)](https://sonarcloud.io/dashboard?id=juan-urrego_lab22021-arquisoft)
+
 Implementation of a Simple Calculator with the next operations:
 
 * Add
